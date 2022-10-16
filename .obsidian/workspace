@@ -1,0 +1,138 @@
+{
+  "main": {
+    "id": "2174c1714705fc4e",
+    "type": "split",
+    "children": [
+      {
+        "id": "43714a3896534e61",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "MATHS S1 SUP EPITA/Probabilités.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d63ea9da94ac304e",
+    "type": "split",
+    "children": [
+      {
+        "id": "ecdf8be180567e7c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9e033e7720dc9b89",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "bf2d28c853b1c54b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#MATHÉMATIQUES",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "37d89308d80a55bc",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "828af35f1beb12f3",
+    "type": "split",
+    "children": [
+      {
+        "id": "db8af97b31120ebc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "51bb3a8301d07de0",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "MATHS S1 SUP EPITA/Probabilités.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d4e199bb3a99c203",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "MATHS S1 SUP EPITA/Probabilités.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9673852be95ced82",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "f9af1a0445bbd829",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "MATHS S1 SUP EPITA/Probabilités.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "active": "43714a3896534e61",
+  "lastOpenFiles": [
+    "MATHS S1 SUP EPITA/Injection, surjection et bijection.md",
+    "MATHS S1 SUP EPITA/Probabilités.md",
+    "MATHS S1 SUP EPITA/Dénombrement.md",
+    "MATHS S1 SUP EPITA/Logique propositionnelle.md",
+    "MATHS S1 SUP EPITA/Raisonnement.md"
+  ]
+}
